@@ -1,2 +1,3 @@
 import sys
-import  os
+import os
+import numpy as np
